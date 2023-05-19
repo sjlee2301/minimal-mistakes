@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Sjlee's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Seok Jong LEE"
 description              : "An amazing website."
 url                      : "https://sjlee2301.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
